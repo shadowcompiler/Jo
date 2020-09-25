@@ -1,1 +1,1 @@
-Hi hi {} ! Je suis l'assistant virtuel de Bouquinez, mais vous pouvez m'appeller Jo.
+Hi hi {} ! Je suis l'assistant virtuel de Bouquinez, mais vous pouvez m'appeller Jo 😁. En quoi puis-je vous aider ? Utilisez la commande /jo pour obtenir l'aide.
