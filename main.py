@@ -35,6 +35,8 @@ def start(update, context):
 
 
 def menu(update, context):
+    user = update.message.from_user
+    logger.info("User %s get menu.", user.first_name)
     keyboard = [[InlineKeyboardButton('Résumé du jour', callback_data='1'),
                  InlineKeyboardButton('Histoire du jour', callback_data='2')],
 
